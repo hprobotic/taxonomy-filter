@@ -1,4 +1,4 @@
-# taxonomy-filter
+# Custom taxonomy filter for wordpress admin
 Add wordpress taxonomy filter on list post
 ```
 <?php
